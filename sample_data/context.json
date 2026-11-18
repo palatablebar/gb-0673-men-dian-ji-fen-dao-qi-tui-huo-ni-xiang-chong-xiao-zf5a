@@ -1,0 +1,18 @@
+{
+  "keys": [
+    "intake",
+    "policy",
+    "lots",
+    "consumption",
+    "refund",
+    "reconcile",
+    "archive"
+  ],
+  "as_of": "2026-11-03T00:00:00+08:00",
+  "rules": {
+    "常规": {
+      "start": "2026-01-01T00:00:00+08:00",
+      "end": "2027-01-01T00:00:00+08:00"
+    }
+  }
+}
